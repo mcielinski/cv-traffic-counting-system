@@ -1,0 +1,71 @@
+1:
+FRAME DIFFERENCING APPROACH
+python fd_approach.py --input_path ../videos/1.mp4 --output_path ../out_videos/fd_approach --contour_area 2200
+NEURAL NETWORK APPROACH
+python nn_approach.py --input_path ../videos/1.mp4 --output_path ../out_videos/nn_approach
+
+2:
+FRAME DIFFERENCING APPROACH
+python fd_approach.py --input_path ../videos/2.mp4 --output_path ../out_videos/fd_approach --contour_area 2000
+NEURAL NETWORK APPROACH
+python nn_approach.py --input_path ../videos/2.mp4 --output_path ../out_videos/nn_approach
+
+3:
+FRAME DIFFERENCING APPROACH
+python fd_approach.py --input_path ../videos/3.mp4 --output_path ../out_videos/fd_approach --contour_area 2300
+NEURAL NETWORK APPROACH
+python nn_approach.py --input_path ../videos/3.mp4 --output_path ../out_videos/nn_approach
+
+4:
+FRAME DIFFERENCING APPROACH
+python fd_approach.py --input_path ../videos/4.mp4 --output_path ../out_videos/fd_approach --contour_area 1000 --dz_height_percentage 0.55
+NEURAL NETWORK APPROACH
+python nn_approach.py --input_path ../videos/4.mp4 --output_path ../out_videos/nn_approach --dz_height_percentage 0.55
+
+5:
+FRAME DIFFERENCING APPROACH
+python fd_approach.py --input_path ../videos/5.mp4 --output_path ../out_videos/fd_approach --contour_area 8000
+NEURAL NETWORK APPROACH
+python nn_approach.py --input_path ../videos/5.mp4 --output_path ../out_videos/nn_approach
+
+6:
+FRAME DIFFERENCING APPROACH
+python fd_approach.py --input_path ../videos/6.mp4 --output_path ../out_videos/fd_approach --contour_area 11000 --dz_height_percentage 0.8
+NEURAL NETWORK APPROACH
+python nn_approach.py --input_path ../videos/6.mp4 --output_path ../out_videos/nn_approach --dz_height_percentage 0.8
+
+7:
+FRAME DIFFERENCING APPROACH
+python fd_approach.py --input_path ../videos/7.mp4 --output_path ../out_videos/fd_approach --contour_area 8000
+NEURAL NETWORK APPROACH
+python nn_approach.py --input_path ../videos/7.mp4 --output_path ../out_videos/nn_approach --dz_height_percentage 0.45
+
+8:
+FRAME DIFFERENCING APPROACH
+python fd_approach.py --input_path ../videos/8.mp4 --output_path ../out_videos/fd_approach --contour_area 3000 --dz_width_percentage 0.8
+NEURAL NETWORK APPROACH
+python nn_approach.py --input_path ../videos/8.mp4 --output_path ../out_videos/nn_approach --dz_width_percentage 0.8
+
+9:
+FRAME DIFFERENCING APPROACH
+python fd_approach.py --input_path ../videos/8.mp4 --output_path ../out_videos/fd_approach --contour_area 2500 --dz_height_percentage 0.3
+NEURAL NETWORK APPROACH
+python nn_approach.py --input_path ../videos/8.mp4 --output_path ../out_videos/nn_approach --dz_height_percentage 0.3
+
+10:
+FRAME DIFFERENCING APPROACH
+python fd_approach.py --input_path ../videos/10.mp4 --output_path ../out_videos/fd_approach --contour_area 2000 --dz_width_percentage 0.7
+NEURAL NETWORK APPROACH
+python nn_approach.py --input_path ../videos/10.mp4 --output_path ../out_videos/nn_approach --dz_width_percentage 0.7
+
+11:
+FRAME DIFFERENCING APPROACH
+python fd_approach.py --input_path ../videos/11.mp4 --output_path ../out_videos/fd_approach --contour_area 2000 --dz_height_percentage 0.25
+NEURAL NETWORK APPROACH
+python nn_approach.py --input_path ../videos/11.mp4 --output_path ../out_videos/nn_approach --dz_height_percentage 0.25
+
+12:
+FRAME DIFFERENCING APPROACH
+python fd_approach.py --input_path ../videos/12.mp4 --output_path ../out_videos/fd_approach --contour_area 5000 --dz_height_percentage 0.8
+NEURAL NETWORK APPROACH
+python nn_approach.py --input_path ../videos/12.mp4 --output_path ../out_videos/nn_approach --dz_height_percentage 0.8
