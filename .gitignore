@@ -5,9 +5,10 @@ contour_frames/
 videos/
 out_videos/
 nn_approach/params.txt
-nn_approach/vahicle_counter.ipynb
+nn_approach/*.ipynb
 nn_approach/yolo.py
 yolo.py
+fd_approach/*.ipynb
 
 
 # */data
