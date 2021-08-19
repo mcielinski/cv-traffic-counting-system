@@ -48,3 +48,8 @@ python nn_approach.py --help
 
 ## Hint
 You can find prepared calls in `prepared_calls.txt`
+
+
+# Outcome example
+![NN](./png/nn.png)
+![FD](./png/fd.png)
