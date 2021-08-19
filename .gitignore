@@ -4,6 +4,12 @@ frames/
 contour_frames/
 videos/
 out_videos/
+nn_approach/params.txt
+nn_approach/vahicle_counter.ipynb
+nn_approach/yolo.py
+yolo.py
+
+
 # */data
 
 # Credentials files
