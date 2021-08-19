@@ -1,3 +1,9 @@
+# Traffic Counting System
+
+This project deals with the counting of vehicles based on the image from a camera placed over the roadway. The performance of neural (pre-trained yolo) and non-neural (frame differencing based on OpenCV) solution is compared. The problem of the task was divided into two subproblems - detection and counting. Detection can be based on recognition of specific objects (neural solution) or detection of movement (non-neural solution). The counting problem relies on appropriate summation of detected objects.
+
+# Run
+
 ## Step 1
 Downoload YOLO the configuration files from the following [source](https://drive.google.com/drive/folders/18XcIOBNQ6jmuJgwUnfgsuITGiXRWZXTa?usp=sharing) 
 
